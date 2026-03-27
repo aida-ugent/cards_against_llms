@@ -302,8 +302,6 @@ def main():
             if args.verbose:
                 print(f"✅ {key} -> {progress[key]}")
 
-    print("🏁 Finished. You can safely rerun this script.")
-
 
 if __name__ == "__main__":
     main()
